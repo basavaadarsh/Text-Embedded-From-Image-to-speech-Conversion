@@ -1,0 +1,1 @@
+# Text-Embedded-From-Image-to-speech-Conversion
