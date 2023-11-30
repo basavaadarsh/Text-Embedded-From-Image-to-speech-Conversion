@@ -18,3 +18,9 @@ Any of the following Operating Systems:
 • Linux                                                                 
 • Unix                                                 
         
+How to Run:                                                                                     
+Run python app.py                                                                       
+
+Output :                                                   
+
+![image](https://github.com/basavaadarsh/Text-Embedded-From-Image-to-speech-Conversion/assets/125342337/fa7ade7a-66c8-48ee-87f5-12acc784d758)
