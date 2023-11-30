@@ -1,0 +1,127 @@
+* , body , html {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.login{
+	background-image: linear-gradient(to right, #7d9dee, #dbff28);
+
+    text-align: center;
+    padding: 2rem 0;
+}
+.orange {
+	background-color: #ff9800 !important;
+  }
+  .page-footer {
+	padding-top: 20px;
+	color: #fff;
+	background-color: #ee6e73;
+  }
+  
+.heading-h1{
+	display: inline-block;
+  	margin: 0.5rem;
+	background-image: linear-gradient(
+	to right, #28FFBF , #FCF876);
+    padding: .2rem 1rem;
+}
+h1{
+	background-image: linear-gradient(to right, #511281, #4D4646);
+	display: inline-block;
+	-webkit-background-clip: text;
+	color: transparent;
+}
+@media only screen and (max-width: 992px) {
+	.hide-on-med-and-down {
+	  display: none !important;
+	}
+  }
+
+
+
+
+
+button{
+	display: block;
+	margin: 2rem auto;
+	border-radius: 20rem;
+	padding: 1rem 4rem;
+	font-size: 1.5rem;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+background-color: #FFC107;
+border: none;
+transition: all .2s;
+}
+button:hover{
+	transform: translateY(-0.3px);
+  box-shadow: 0 1.5rem 1.5rem rgba(0, 0, 0, 0.2);
+}
+
+ul{
+    font-size: 25px;
+    padding: 5rem;
+    text-align: left;
+    word-spacing: 3px;
+    font-family: cursive;
+}
+
+.result{
+    text-align: center;
+    padding: 1.5rem 1.5rem;
+    background-image: linear-gradient(to right, #511281, #4D4646);
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.page-footer {
+	padding-top: 20px;
+	color: #fff;
+	background-color: #ee6e73;
+  }
+  
+  .page-footer .footer-copyright {
+	overflow: hidden;
+	min-height: 50px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+		-ms-flex-align: center;
+			align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+		-ms-flex-pack: justify;
+			justify-content: space-between;
+	padding: 5px 0px;
+	color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(51, 51, 51, 0.08);
+  }
+
+
+  .orange {
+	background-color: #001c12a7 !important;
+  }
+  .light-blue.lighten-4 {
+	background-color: #b3e5fc !important;
+  }
+  .light-blue.lighten-1 {
+	background-color: #fa951f !important;
+  }
+  buttons{
+	display: block;
+	margin: 2rem auto;
+	text-align: right;
+	border-radius: 20rem;
+	padding: 1rem 4rem;
+	font-size: 1.5rem;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+background-color: #131313;
+border: none;
+transition: all .2s;
+}
