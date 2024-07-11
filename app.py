@@ -46,10 +46,6 @@ def text_to_speech(text):
     engine.say(text)
     engine.runAndWait()
 
-@app.route('/', methods=['GET'])
-def index():
-    
-    return render_template('indexss.html')
 
 
 @app.route('/predict', methods=['GET', 'POST'])
