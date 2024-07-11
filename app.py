@@ -43,8 +43,7 @@ def text_to_speech(text):
     voices = engine.getProperty('voices')
     engine.setProperty('voice', voices[code].id)
 
-    engine.say(text)
-    engine.runAndWait()
+
 
 
 
